@@ -1,0 +1,10 @@
+{
+  "name": "resume.io extension",
+  "manifest_version": 2,
+  "version": "1.0",
+  "content_scripts": [{ "matches": ["https://resume.io/*"], "js": ["content.js"] }],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "resumeio-extension"
+  }
+}
