@@ -13,6 +13,6 @@
     "detect-character-encoding": "^0.8.0",
     "dom-parser": "^0.1.6",
     "jsdom": "^15.1.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
